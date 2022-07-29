@@ -10,7 +10,7 @@ function HubButton(props: HubButtonProps) {
             <span className="absolute w-0 h-0 transition-all duration-500 ease-out bg-white rounded-full group-hover:w-14 group-hover:h-14"/>
             <span className="absolute w-0 h-0 transition-all duration-500 ease-out bg-gray-300 rounded-full group-hover:w-12 group-hover:h-12"/>
             <span className="absolute w-0 h-0 transition-all duration-500 ease-out bg-white rounded-full group-hover:w-8 group-hover:h-8"/>
-            <span className="relative font-bold text-2xl l group-hover:text-orange-600">{props.label}</span>
+            <span className="relative font-bold text-xl group-hover:text-orange-600">{props.label}</span>
         </a>
     );
 }

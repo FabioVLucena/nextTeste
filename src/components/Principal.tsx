@@ -2,7 +2,7 @@ import Button from "./Button";
 
 function Principal() {
     return (  
-        <div className="w-full h-[600px] flex justify-center">
+        <div className="w-full h-[900px] flex justify-center">
             <div className="w-2/3 flex items-center">
                 <div className="w-2/3">
                     <h1 className="text-5xl">

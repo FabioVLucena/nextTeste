@@ -3,7 +3,7 @@
 function SubPrincipal() {
     return (  
         <div className="w-full h-[510px] bg-white flex justify-center">
-            <div className="w-2/3 h-full bg-gray-400 flex flex-col justify-center">
+            <div className="w-2/3 h-full flex flex-col justify-center">
                 <div className="w-full h-1/3 mt-20 border-orange-600 flex flex-col justify-center items-center">
                     <h1 className="text-4xl text-black font-bold">Consultoria em TI e Telecomunicação</h1>
                     <p className="text-xl text-gray-700 py-4">Oferecemos alta capacidade e disponibilidade através de soluções customizadas para a sua empresa.</p>
